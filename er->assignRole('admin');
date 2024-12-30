@@ -1,0 +1,25 @@
+[90m= [39m[34;4mIlluminate\Support\Collection[39;24m {#6082
+    [34mall[39m: [
+      {#6077
+        +"[1mid[22m": [35m1[39m,
+        +"[1mname[22m": "[32madmin[39m",
+        +"[1memail[22m": "[32madmin@admin.com[39m",
+        +"[1memail_verified_at[22m": "[32m2024-12-29 21:15:22[39m",
+        +"[1mpassword[22m": "[32m$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi[39m",
+        +"[1mremember_token[22m": [36mnull[39m,
+        +"[1mcreated_at[22m": "[32m2024-12-29 21:15:22[39m",
+        +"[1mupdated_at[22m": "[32m2024-12-29 21:15:22[39m",
+      },
+      {#6076
+        +"[1mid[22m": [35m2[39m,
+        +"[1mname[22m": "[32mtest[39m",
+        +"[1memail[22m": "[32mtest@test.com[39m",
+        +"[1memail_verified_at[22m": "[32m2024-12-29 21:37:51[39m",
+        +"[1mpassword[22m": "[32m$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi[39m",
+        +"[1mremember_token[22m": [36mnull[39m,
+        +"[1mcreated_at[22m": "[32m2024-12-29 21:37:51[39m",
+        +"[1mupdated_at[22m": "[32m2024-12-29 21:37:51[39m",
+      },
+    ],
+  }
+
